@@ -2,6 +2,8 @@
 
 Real-time piano hand posture analysis using computer vision and MediaPipe hand tracking.
 
+More information can be found in the research paper outlining this project.
+
 ## Overview
 
 This system analyzes a pianist's right-hand posture using a single RGB webcam. It extracts geometric features from hand landmarks and provides real-time visual feedback with a posture score (0-100).
