@@ -48,7 +48,6 @@ python src/main.py --camera 0 --width 640 --height 480
 
 Position the camera:
 - In front of the pianist, above hand height
-- Offset towards the right so the right hand is near center
 - Tilted downwards to capture the back of the hand and wrist
 - Keyboard should be visible in frame
 
